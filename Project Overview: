@@ -1,0 +1,32 @@
+Project Overview:
+This project focuses on analyzing customer demographic and spending data provided by Mitron Bank to inform the development of a new line of credit cards. The bank seeks to broaden its product offerings and market reach. The dataset includes details from 4,000 customers across five major cities, profiling their spending behaviors and key demographics.
+
+The analysis was performed by Peter Pandey (data analyst at AtliQ Data Services), with the objective of delivering actionable insights to the strategy team of Mitron Bank, particularly aimed at addressing the concerns of Strategy Director Mr. Bashnir Rover.
+
+Key Objectives:
+Customer Segmentation:
+Analyze the dataset to identify key customer segments based on age, gender, occupation, and spending behaviors.
+
+Credit Card Utilization Insights:
+Determine utilization rates and spending habits across different customer demographics to guide the customization of the new credit card offerings.
+
+Actionable Recommendations:
+Provide tailored credit card product recommendations based on the insights gathered to better target high-value customers.
+
+Tools Used:
+Power BI: For data visualization and dashboard creation.
+Excel: For data cleaning and preparation.
+SQL: For querying and extracting relevant customer data.
+Key Features of the Dashboard:
+Demographic Classification:
+Visualized data on customer age, gender, occupation, and city distribution to identify high-value segments.
+
+Spending Behavior Analysis:
+Insights on customer spending patterns to understand how different demographics utilize credit cards.
+
+Credit Card Utilization Recommendations:
+Data-driven suggestions for tailored credit card products aimed at maximizing engagement and customer satisfaction.
+
+Outcome:
+The dashboard presents clear, data-driven insights that will help Mitron Bank tailor their credit card offerings to match the spending behaviors and needs of key customer segments. By identifying high-value customers, the analysis supports strategic decision-making for product launches.
+
